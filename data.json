@@ -1,0 +1,77 @@
+{
+  "categories": [
+    {
+      "title": "Bedroom",
+      "description": "is a room in a house for the bed, so it's mainly used for sleeping. If you live in a one-bedroom apartment, it has exactly one room for the bed. To sound old fashioned, call it your bedchamber.",
+      "url": "https://source.unsplash.com/nEtpvJjnPVo"
+    },
+    {
+      "title": "Living Room",
+      "description": "Enjoy a great living room aesthetics with your family  Designs created for increased comfortability",
+      "url": "https://source.unsplash.com/gREquCUXQLI"
+    },
+    {
+      "title": "Home Office",
+      "description": "is a space designated in a person's residence for official business purposes. It provides a space for those that are self-employed or work remotely for an employer.",
+      "url": "https://source.unsplash.com/MNd-Rka1o0Q"
+    },
+    {
+      "title": "Gaming Room",
+      "description": "is playing an electronic video game, which is often done on a dedicated gaming console, PC or smartphone. People who often play video games are called gamers.",
+      "url": "https://source.unsplash.com/XcPWswUrzK0"
+    }
+  ],
+
+  "products": [
+    {
+      "title": "Und Chair",
+      "price": "329",
+      "url": "https://source.unsplash.com/ljRiZl00n18"
+    },
+    {
+      "title": "Pinky Chair",
+      "price": "400",
+      "url": "https://source.unsplash.com/1JJJIHh7-Mk"
+    },
+    {
+      "title": "Klein Chair",
+      "price": "500",
+      "url": "https://source.unsplash.com/JaXs8Tk5Iww"
+    },
+    {
+      "title": "Karisea Chair",
+      "price": "550",
+      "url": "https://source.unsplash.com/ItMggD0EguY"
+    },
+    {
+      "title": "Beazy Sofa",
+      "price": "590",
+      "url": "https://source.unsplash.com/aX1TTOuq83M"
+    },
+    {
+      "title": "Bardash Chair",
+      "price": "330",
+      "url": "https://source.unsplash.com/4kTbAMRAHtQ"
+    },
+    {
+      "title": "Corona Sofa",
+      "price": "630",
+      "url": "https://source.unsplash.com/1tMc27CFUbA"
+    },
+    {
+      "title": "Norouzi Chaair",
+      "price": "390",
+      "url": "https://source.unsplash.com/phXwnWWz-BM"
+    },
+    {
+      "title": "Scopic Chaair",
+      "price": "490",
+      "url": "https://source.unsplash.com/NLlWwR4d3qU"
+    },
+    {
+      "title": "Burgos Chaair",
+      "price": "420",
+      "url": "https://source.unsplash.com/Dp2xzrdXrNs"
+    }
+  ]
+}
